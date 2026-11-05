@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.5.0/tokimichi-v0.5.0.apk",
-  "sha256": "afd9248dc297c216faf53fcaeeea256bccedff79654af16b6dbde71b4b535b9a",
-  "notas": "Tres puntos en cada experiencia para cambiar su nombre y sus días o borrarla. Ajustes con la rueda de arriba: tema claro, oscuro o automático, y buscar actualizaciones.",
+  "versionCode": 6,
+  "versionName": "0.5.1",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.5.1/tokimichi-v0.5.1.apk",
+  "sha256": "c6074b0693e2d7ef89b5c2128a55f8fee1627e7e6f1748a026ccbb1c18cdb967",
+  "notas": "«Atrás» es ahora un botón de verdad en Ajustes, Nueva experiencia y Editar.",
   "check_horas": 24
 }
