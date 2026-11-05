@@ -1,0 +1,8 @@
+{
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.4.0/tokimichi-v0.4.0.apk",
+  "sha256": "55f9886f37dd1520438f0e566225178b98c45dd030d3e7fbf5d817b4c35b7730",
+  "notas": "Primera versión en DracApps. Las pantallas respetan mejor el teclado y las barras del sistema, los avisos inferiores vuelven a leerse y la app ya se actualiza sola.",
+  "check_horas": 24
+}
