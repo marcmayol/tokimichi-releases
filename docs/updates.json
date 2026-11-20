@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.11.3",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.3/tokimichi-v0.11.3.apk",
-  "sha256": "ae423003216f4c9a7f88ec9787f38539f5a0cf4214089d8a83ea0b4f73e037a4",
-  "notas": "Al mandar un momento o un día con varias fotos, el «Marc te manda…» va primero como mensaje aparte y luego las fotos.",
+  "versionCode": 24,
+  "versionName": "0.11.4",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.4/tokimichi-v0.11.4.apk",
+  "sha256": "98f4cf83b9d7c6bc49b428b363437d32918a6c6aec29ec49529600934d5f846b",
+  "notas": "Enviar un momento o un día va de un toque: primero el mensaje y, al volver, se abre solo el envío de las fotos.",
   "check_horas": 24
 }
