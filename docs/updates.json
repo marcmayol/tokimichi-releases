@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.11.5",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.5/tokimichi-v0.11.5.apk",
-  "sha256": "1aeabc6660f9cd4febc12716874a2ccee376c8448cd7d0290d5b1347a19ed3eb",
-  "notas": "Enviar un momento o un día es un solo menú de compartir: el «Marc te manda…» va en una tarjeta delante de las fotos.",
+  "versionCode": 26,
+  "versionName": "0.11.6",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.6/tokimichi-v0.11.6.apk",
+  "sha256": "f03b5cd44cb9475cf831d128b9640ed5eca7b9daae442d05118c54ec2ef0b819",
+  "notas": "Tokimichi 0.11.6: en iPhone, si el permiso de ubicación está denegado, «Donde estoy ahora» abre Ajustes; el texto del nombre al enviar ya no habla de la cuenta de Google en iPhone.",
   "check_horas": 24
 }
