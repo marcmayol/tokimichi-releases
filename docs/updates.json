@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.11.7",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.7/tokimichi-v0.11.7.apk",
-  "sha256": "cf11120bd1345ab3b09a7a6c03962358bad79c0ee8fcf6d204abd8444543bb99",
-  "notas": "Tokimichi 0.11.7: si el móvil no tiene app de cámara (o está desactivada), Foto y Vídeo ya no cierran la app.",
+  "versionCode": 28,
+  "versionName": "0.11.8",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.8/tokimichi-v0.11.8.apk",
+  "sha256": "97f01b42318e2630f7679e7d4e3ebac82e477e86a88af67586831b135654ad26",
+  "notas": "Tokimichi 0.11.8: en iPhone, los vídeos enseñan su primer fotograma en la línea del tiempo, el visor y al editar. En Android no cambia nada.",
   "check_horas": 24
 }
