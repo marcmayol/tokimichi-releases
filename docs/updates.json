@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.11.2",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.2/tokimichi-v0.11.2.apk",
-  "sha256": "e475f1e92afb0fcfbf6cbf58e5e9390c68369235326171af6aa14d078db6173e",
-  "notas": "Al mandar varias fotos, el «Marc te manda…» va una sola vez, en la primera, no en cada foto.\nTu nombre se coge de la cuenta de Google con la que entras en la copia de Drive si no lo has puesto en Ajustes.",
+  "versionCode": 23,
+  "versionName": "0.11.3",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.11.3/tokimichi-v0.11.3.apk",
+  "sha256": "ae423003216f4c9a7f88ec9787f38539f5a0cf4214089d8a83ea0b4f73e037a4",
+  "notas": "Al mandar un momento o un día con varias fotos, el «Marc te manda…» va primero como mensaje aparte y luego las fotos.",
   "check_horas": 24
 }
