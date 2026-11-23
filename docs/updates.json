@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.19.0",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.19.0/tokimichi-v0.19.0.apk",
-  "sha256": "a611b614b512498e4d81a72eb4776197ab6c3f51e088b7040c992498c33e3b0a",
-  "notas": "Guardar el montaje: junto a «Compartir el montaje» está «Guardar», que deja las diapositivas en la galería, en el álbum Tokimichi.",
+  "versionCode": 41,
+  "versionName": "0.19.1",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.19.1/tokimichi-v0.19.1.apk",
+  "sha256": "6598b2dd3f00051f5d2b8ca147f6f591c899c623f3d592736e1cede939a4d509",
+  "notas": "En iPhone, «Guardar» el montaje espera a que des permiso a Fotos y solo dice que se ha guardado si es verdad.",
   "check_horas": 24
 }
