@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.14.1",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.14.1/tokimichi-v0.14.1.apk",
-  "sha256": "4af569a47a2b681ae977d754b2ff95d17df33dd23dcb246acf57011b9097e622",
-  "notas": "La ubicación de un momento se busca por nombre o dirección sin salir de la app, y los enlaces de Google Maps vuelven a funcionar.",
+  "versionCode": 34,
+  "versionName": "0.15.0",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.15.0/tokimichi-v0.15.0.apk",
+  "sha256": "b9dbd9cfad442661bf95d2fe472ae331339471c0bee509453ef0cb6a31dd5eb3",
+  "notas": "Montajes: un día o toda la experiencia en un carrusel de diapositivas para Instagram o WhatsApp, para cualquier tipo de experiencia. Plantillas Limpio y Polaroid gratis; Revista, Cartón y Noche llegarán con Premium.",
   "check_horas": 24
 }
