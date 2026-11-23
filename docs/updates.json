@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.15.0",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.15.0/tokimichi-v0.15.0.apk",
-  "sha256": "b9dbd9cfad442661bf95d2fe472ae331339471c0bee509453ef0cb6a31dd5eb3",
-  "notas": "Montajes: un día o toda la experiencia en un carrusel de diapositivas para Instagram o WhatsApp, para cualquier tipo de experiencia. Plantillas Limpio y Polaroid gratis; Revista, Cartón y Noche llegarán con Premium.",
+  "versionCode": 35,
+  "versionName": "0.16.0",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.16.0/tokimichi-v0.16.0.apk",
+  "sha256": "1ca973ce473edfee0c8b1bca0822da02ed6e7778f4d89b3d008ea63fa8f014dd",
+  "notas": "Montajes con cuatro diseños: Clásico y Columnas gratis, con la barra de Tokimichi abajo; Rasgado y Decorado llegarán con Premium. Compartir el día o un momento sigue igual.",
   "check_horas": 24
 }
