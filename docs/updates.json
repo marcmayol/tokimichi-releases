@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "0.21.1",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.21.1/tokimichi-v0.21.1.apk",
-  "sha256": "d7b695f86d6d4cac3618487195ee30d73ce6bab6e86857f3828b0c86a3cdf676",
-  "notas": "El álbum reparte las fotos entre todos los momentos: uno con muchas fotos ya no se queda con todos los huecos.",
+  "versionCode": 47,
+  "versionName": "0.22.0",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.22.0/tokimichi-v0.22.0.apk",
+  "sha256": "7383e2c3cfbcb78276f58d64dee3ec6e4fb34ac7b209bf54d59c6480f9d55c98",
+  "notas": "Álbum con todas las fotos: activa «Todas las fotos» y el álbum crece con las diapositivas que hagan falta. «Crea tu álbum» empieza así.",
   "check_horas": 24
 }
