@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "0.24.0",
-  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.24.0/tokimichi-v0.24.0.apk",
-  "sha256": "ddcb29c6e26539ce494b6f87fceff80955140a78e51eb54df06c16a1704d57e2",
-  "notas": "Cada diapositiva del montaje o del álbum tiene su botón de compartir: sube solo esa a la red que quieras.",
+  "versionCode": 50,
+  "versionName": "0.25.0",
+  "url": "https://github.com/marcmayol/tokimichi-releases/releases/download/v0.25.0/tokimichi-v0.25.0.apk",
+  "sha256": "fa02ddab9079943b1a609e6461f2bf510c665f3efb59164150ca634c5bc95642",
+  "notas": "Bajo el último momento del día, «Añadir más a este momento» abre su editor directamente en los botones de foto, galería, vídeo y voz. Una raya fina separa los momentos de los botones del día.",
   "check_horas": 24
 }
